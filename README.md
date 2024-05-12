@@ -1,1 +1,1 @@
-# infographics
+# Infographics
