@@ -12,4 +12,4 @@
 ![1.3 - Linux Distributions](https://jucajata.github.io/infographics/03_Linux_Distributions.drawio.svg)
 
 ## 1.4 - Linux Terminal Overview
-![1.3 - Linux Distributions](https://jucajata.github.io/infographics/04_Linux_Terminal_Overview.drawio.svg)
+![1.4 - Linux Terminal Overview](https://jucajata.github.io/infographics/04_Linux_Terminal_Overview.drawio.svg)
