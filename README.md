@@ -2,6 +2,8 @@
 
 # 1 - Introduction to Linux
 
+![1.1 - Introducing Linux and Unix](https://jucajata.github.io/infographics/01_Introducing_Linux_and_Unix.drawio.svg)
+
 ## 1.1 - Introducing Linux and Unix
 <iframe src="https://jucajata.github.io/infographics/01_Introducing_Linux_and_Unix.drawio.svg" width="1099" height="1698"></iframe>
 
