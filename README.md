@@ -13,3 +13,9 @@
 
 ## 1.4 - Linux Terminal Overview
 ![1.4 - Linux Terminal Overview](https://jucajata.github.io/infographics/04_Linux_Terminal_Overview.drawio.svg)
+
+
+# 2 - Introduction to Apache Spark
+
+## 2.1 - Why use Apache Spark 
+![2.1 - Why use Apache Spark ](https://jucajata.github.io/infographics/01_Why_use_Apache_Spark.drawio.svg)
